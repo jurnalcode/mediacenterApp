@@ -1,6 +1,6 @@
-# Maz News - Blogger News App
+# Mediacenter Flutter APP
 
-Aplikasi berita Flutter yang modern dan responsif dengan fitur lengkap untuk membaca artikel dari berbagai kategori.
+Aplikasi berita  yang modern dan responsif dengan fitur lengkap untuk membaca artikel dari berbagai kategori.
 
 ## 📱 Fitur Utama
 
@@ -34,7 +34,7 @@ Aplikasi berita Flutter yang modern dan responsif dengan fitur lengkap untuk mem
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/blogger_news_app.git
+   git clone https://github.com/jurnalcode/mediacenterApp
    cd blogger_news_app
    ```
 
